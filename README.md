@@ -1,1 +1,1 @@
-n this video will be building a cumulative table design with complex data types STRUCT and ARRAY. We will take the table player_seasons and create a new table called players that holds onto an historical record of all NBA players and the seasons that they played!
+In this lab I built a cumulative table design with complex data types STRUCT and ARRAY.I then took the table player_seasons and created a new table called players that holds onto a historical record of all NBA players and the seasons that they played
